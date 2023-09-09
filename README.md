@@ -1,4 +1,8 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/c50w1gkn32t8556c?svg=true)](https://ci.appveyor.com/project/Stacyde/api-patterns)
+_______________________________
+Ручное тестирование - 30 минут.
+Автоматизация - ~6 часов.
+_______________________________
 
 # Домашнее задание к занятию «2.3. Patterns»
 
